@@ -14,7 +14,7 @@ const About = () => {
                     <span className='w-96'>
                         <h1 className='text-xl sm:text-lg md:text-2xl font-bold leading-normal'>Frontend Developer</h1>
                         <p className='text-sm md:text-md leading-tight'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, voluptatem asperiores cupiditate deleniti atque aut eaque obcaecati! Beatae perspiciatis quos eos fuga eveniet iste doloremque nobis nisi possimus? Corrupti, corporis.
+                        Experienced in developing dynamic and responsive user interfaces using React.js, HTML, CSS, and JavaScript. Adept at turning UI/UX designs into functional code with reusable components, state management, and seamless interactivity. Passionate about building scalable and performant front-end solutions.
                             
                             
                         </p>
@@ -25,7 +25,7 @@ const About = () => {
                     <span className='w-96'>
                         <h1 className='text-xl md:text-2xl font-bold leading-normal'>UI/UX Designer</h1>
                         <p className='text-sm md:text-md leading-tight'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, voluptatem asperiores cupiditate deleniti atque aut eaque obcaecati! Beatae perspiciatis quos eos fuga eveniet iste doloremque nobis nisi possimus? Corrupti, corporis.
+                        Creative and user-focused UI/UX Designer with a strong foundation in designing clean, accessible, and engaging interfaces for web and mobile apps. Skilled in Figma, wireframing, prototyping, and usability testing, with a focus on enhancing user journeys through thoughtful design.
                             
                             
                         </p>
@@ -34,9 +34,9 @@ const About = () => {
                 <div className='flex gap-10 py-4 justify-center'>
                     <IoArrowForward  size={30} className='mt-1'/>
                     <span className='w-96'>
-                        <h1 className='text-xl md:text-2xl font-bold leading-normal'>Backend Developer</h1>
+                        <h1 className='text-xl md:text-2xl font-bold leading-normal'>Freelancer & Team Collaborator</h1>
                         <p className='text-sm md:text-md leading-tight'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, voluptatem asperiores cupiditate deleniti atque aut eaque obcaecati! Beatae perspiciatis quos eos fuga eveniet iste doloremque nobis nisi possimus? Corrupti, corporis.
+                        Contributed to various freelancing and academic projects, hackathons, and internships. Strong communication and teamwork skills with the ability to manage deadlines, understand client requirements, and deliver quality results.
                              
                         </p>
                         </span>

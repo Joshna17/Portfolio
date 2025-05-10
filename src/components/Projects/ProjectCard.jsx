@@ -1,7 +1,7 @@
 import React from 'react'
-// import myBrand from '../../assets/me.png'
+import myBrand from '../../assets/fig.jpg'
 
-const ProjectCard = ({title, main,demoLink,myBrand}) => {
+const ProjectCard = ({title, main,demoLink}) => {
   return (
     <div className=' p-3 md:p-6 flex flex-col w-80 bg-gray-100 shadow-lg shadow-slate-300 rounded-2xl justify-center align-middle '>
         <img className='p-4' src={myBrand}  alt=''/>
@@ -14,10 +14,10 @@ const ProjectCard = ({title, main,demoLink,myBrand}) => {
           href={demoLink}
           target='_blank'
           rel='noopener noreferrer'
-          className='md:mt-6 text-white py-2 px-3 text-sm md:text-md md:py-2 md:px-4 hover:opacity-80 duration-300 hover:scale-105 font-semibold rounded-xl bg-[#669494] bg-opacity-45'
+          className='md:mt-6 text-white py-2 px-8 text-sm md:text-md md:py-2 md:px-10 hover:opacity-80 duration-300 hover:scale-105 font-semibold rounded-xl bg-[#669494] bg-opacity-45'
         >Demo</a>
-             <button className='md:mt-6 text-white py-2 px-3 text-sm md:text-md md:py-2 md:px-4 hover:opacity-80
-             duration-300 hover:scale-105 font-semibold rounded-xl bg-[#669494] bg-opacity-45'>Source code</button>
+             {/* <button className='md:mt-6 text-white py-2 px-3 text-sm md:text-md md:py-2 md:px-4 hover:opacity-80
+             duration-300 hover:scale-105 font-semibold rounded-xl bg-[#669494] bg-opacity-45'>Source code</button> */}
         </div>
 
       
